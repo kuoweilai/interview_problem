@@ -17,7 +17,7 @@ YOLO26
 
 1. preprocess object detection dataset into self-supervised representation learning dataset. Crop every object using yolo labels
 
-2. create custon dataloader with random data augumentation.
+2. create custom dataloader with random data augumentation.
 
 3. implement contrastive loss and train a simple simclr model
 
